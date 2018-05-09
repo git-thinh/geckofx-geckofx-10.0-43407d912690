@@ -1,0 +1,11 @@
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\bin\x86\Debug_Windows\geckofx-10.dll.config
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\bin\x86\Debug_Windows\geckofx-10.dll
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\bin\x86\Debug_Windows\geckofx-10.pdb
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Windows\Gecko.ChromeDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Windows\Gecko.ConfirmDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Windows\Gecko.PasswordDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Windows\Gecko.PromptDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Windows\Gecko.PropertiesDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Windows\Skybound.Gecko.csproj.GenerateResource.Cache
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Windows\geckofx-10.dll
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Windows\geckofx-10.pdb

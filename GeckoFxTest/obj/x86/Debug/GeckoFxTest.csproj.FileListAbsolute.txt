@@ -1,0 +1,11 @@
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\bin\x86\Debug\geckofx-10.dll.config
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\bin\x86\Debug\GeckoFxTest.exe
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\bin\x86\Debug\GeckoFxTest.pdb
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\bin\x86\Debug\geckofx-10.dll
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\bin\x86\Debug\geckofx-10.pdb
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\obj\x86\Debug\GeckoFxTest.csprojResolveAssemblyReference.cache
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\obj\x86\Debug\GeckoFxTest.MyForm.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\obj\x86\Debug\GeckoFxTest.csproj.GenerateResource.Cache
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\obj\x86\Debug\GeckoFxTest.exe
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\obj\x86\Debug\GeckoFxTest.pdb
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\GeckoFxTest\obj\x86\Debug\GeckoFxTest.Resources.resources
