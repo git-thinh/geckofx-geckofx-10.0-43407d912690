@@ -411,8 +411,14 @@ namespace Gecko
 				//referrerUri = Xpcom.GetService<nsIIOService>("@mozilla.org/network/io-service;1").NewURI(new nsAUTF8String(referrer), null, null);
 				referrerUri = IOService.CreateNsIUri(referrer);
 			}
-
-			WebNav.LoadURI(url, (uint)loadFlags, referrerUri, postDataStream, headersStream);
+            try
+            {
+                WebNav.LoadURI(url, (uint)loadFlags, referrerUri, postDataStream, headersStream);
+            }
+            catch {
+                MessageBox.Show("Can not open: " + url);
+                return false;
+            }
 			return true;
 		}
 		

@@ -1,0 +1,7 @@
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Linux\Skybound.Gecko.csprojResolveAssemblyReference.cache
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Linux\Gecko.ChromeDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Linux\Gecko.ConfirmDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Linux\Gecko.PasswordDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Linux\Gecko.PromptDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Linux\Gecko.PropertiesDialog.resources
+E:\__erp\protype\geckofx-geckofx-10.0-43407d912690\Skybound.Gecko\obj\x86\Debug_Linux\Skybound.Gecko.csproj.GenerateResource.Cache

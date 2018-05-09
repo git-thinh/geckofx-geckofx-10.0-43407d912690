@@ -22,6 +22,11 @@ namespace GeckoFxTest
                 Xpcom.Shutdown();
             };
 
+            //Gecko.GeckoPreferences["extensions.blocklist.enabled"] = false; 
+            //GeckoPreferences.User["browser.xul.error_pages.enabled"] = true;
+            //GeckoPreferences.User["media.navigator.enabled"] = true;
+            //GeckoPreferences.User["media.navigator.permission.disabled"] = true; // enable Access to video & audio
+
             //Application.Idle += (s, e) => Console.WriteLine(SynchronizationContext.Current);
             Application.Run(new MyForm());
         }
